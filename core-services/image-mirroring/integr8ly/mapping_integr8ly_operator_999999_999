@@ -1,0 +1,2 @@
+registry.svc.ci.openshift.org/integr8ly/999999.999:integreatly-operator quay.io/integreatly/integreatly-operator:999999.999
+registry.svc.ci.openshift.org/integr8ly/999999.999:integreatly-operator-test-harness quay.io/integreatly/integreatly-operator-test-harness:999999.999
